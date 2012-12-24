@@ -1,5 +1,4 @@
-require 'chunk/ios'
-require 'chunk/retina'
+require 'chunk/getters'
 require 'chunk/version'
 
 module Chunk
